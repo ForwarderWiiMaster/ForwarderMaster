@@ -1,2 +1,2 @@
 # ForwarderMaster
-This is a Glow Wii forwarder for the Nintendo Wii. The forwarder might not work with VWii systems on the wiiu since i havent tested it YET.
+This is a Glow Wii forwarder for the Nintendo Wii. BE CAREFUL! INSTALLING THE WAD MIGHT CAUSE A BANNER BRICK,I AM NOT RESPONSIBLE IN CASE YOU BRICK YOUR WII.FOR THE BEST SAFETY DOWNLOAD PRIILOADER OR BOOTMII FOR EXTRA SAFETY!
